@@ -1,0 +1,8 @@
+# requirements.txt
+
+fastapi
+sqlalchemy
+faker>=18.0
+"uvicorn[standard]"
+openai
+python-dotenv

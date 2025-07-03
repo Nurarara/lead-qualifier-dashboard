@@ -1,0 +1,51 @@
+id,name,company,industry,size,source,created_at
+1,William Roman,Perez-Soto,Finance,576,Email,2025-04-30T19:51:30.061138Z
+2,Brittney Mckinney,Morrison-Fisher,Manufacturing,469,Email,2025-06-08T02:51:30.061138Z
+3,Joanne Conner,Ayers-Davis,Manufacturing,763,Email,2025-04-19T18:51:30.063819Z
+4,Charles Harris,Odonnell-Gonzalez,Finance,924,Referral,2025-06-21T21:51:30.063819Z
+5,Kari Miller,Cruz Ltd,Manufacturing,987,Organic,2025-07-01T14:51:30.063819Z
+6,James Avery,"Medina, Wilkinson and Fischer",Retail,111,PPC,2025-06-04T17:51:30.063819Z
+7,Mikayla Parker,Huber-Moore,Technology,13,PPC,2025-06-11T14:51:30.063819Z
+8,Jaclyn Olsen,Smith-Jimenez,Social,990,Social,2025-06-06T09:51:30.063819Z
+9,April Walker MD,Davis Inc,Retail,740,Organic,2025-05-23T04:51:30.063819Z
+10,Jacob Shaw,Lane Inc,Social,595,PPC,2025-04-21T21:51:30.063819Z
+11,John Johnson,Lang-Lang,Social,317,Organic,2025-04-18T17:51:30.063819Z
+12,Jonathan Clark,"Swanson, Rubio and Turner",Social,642,Email,2025-05-21T13:51:30.063819Z
+13,Derek Gordon,Payne-Richardson,Social,508,Email,2025-06-25T22:51:30.063819Z
+14,Brett Barry,Poole-Griffin,Healthcare,301,PPC,2025-05-05T10:51:30.063819Z
+15,Nicole Green,Black and Sons,Retail,390,Organic,2025-04-30T07:51:30.063819Z
+16,Cassandra Thomas,Williams PLC,Finance,888,Organic,2025-04-26T01:51:30.063819Z
+17,Nicholas Martin Jr.,"Fritz, Myers and Salazar",Retail,280,Referral,2025-05-02T20:51:30.063819Z
+18,Anna Martinez,Mcmahon Inc,Healthcare,830,PPC,2025-05-08T21:51:30.063819Z
+19,Christina Peters,Thornton-Morrison,Manufacturing,439,Referral,2025-06-26T05:51:30.063819Z
+20,Matthew Murphy,Klein LLC,Technology,792,Email,2025-06-11T10:51:30.063819Z
+21,Sherry Simpson,"Stone, Walker and Cummings",Finance,602,Email,2025-06-16T02:51:30.063819Z
+22,Michael Mendoza,"Franklin, Campbell and Clark",Retail,578,Email,2025-06-03T10:51:30.063819Z
+23,Fernando Turner,Macdonald LLC,Healthcare,347,Social,2025-05-12T00:51:30.063819Z
+24,David Morton,"Bradley, Malone and Thompson",Retail,729,Social,2025-06-25T21:51:30.063819Z
+25,Carol Morrison,Mccullough-Greer,Healthcare,973,Organic,2025-04-10T07:51:30.063819Z
+26,Stephanie Morales,Spencer-Montes,Finance,897,Social,2025-06-04T03:51:30.063819Z
+27,Chris Johnson,Aguilar Inc,Social,304,Social,2025-05-31T13:51:30.063819Z
+28,John Tucker,"Rodriguez, Ford and Phillips",Finance,730,Referral,2025-04-15T03:51:30.063819Z
+29,Casey Rogers,"Cobb, Gomez and Sanchez",Healthcare,355,PPC,2025-05-26T18:51:30.063819Z
+30,Erica Davis,Rice and Sons,Social,283,Email,2025-04-17T05:51:30.063819Z
+31,Brian Cruz,Pierce Group,Finance,452,Social,2025-06-30T02:51:30.072067Z
+32,John Baker,"Nielsen, Lewis and Reyes",Technology,461,Email,2025-06-30T16:51:30.072373Z
+33,Nicholas Gilbert,"Keith, Carr and Aguilar",Retail,815,Organic,2025-06-05T09:51:30.072373Z
+34,Jennifer Shea,Guerra PLC,Finance,141,Referral,2025-04-11T21:51:30.072373Z
+35,Christine Boone,"Patton, Crawford and Wright",Healthcare,373,Referral,2025-05-12T14:51:30.072373Z
+36,Gregory Mitchell,Dawson and Sons,Social,342,PPC,2025-05-17T20:51:30.072373Z
+37,Elizabeth Nelson,"Jackson, Tate and Yang",Manufacturing,770,PPC,2025-04-11T14:51:30.072373Z
+38,Kathy Estrada,Wilson-Joyce,Social,771,Referral,2025-07-01T21:51:30.072373Z
+39,Stephanie Sullivan,James-Reynolds,Finance,588,Organic,2025-05-14T17:51:30.072373Z
+40,Robert Bowers,Moreno-Barber,Manufacturing,512,Organic,2025-07-01T12:51:30.072373Z
+41,Brenda Gates,Long-Day,Social,726,Organic,2025-06-01T18:51:30.072373Z
+42,Jeffrey Harper PhD,Watson Ltd,Healthcare,678,Email,2025-04-13T18:51:30.072373Z
+43,Eddie Huynh,Martin-Newman,Social,679,Organic,2025-06-24T19:51:30.072373Z
+44,Leslie Henry,Garcia-Cervantes,Healthcare,563,Referral,2025-06-03T08:51:30.072373Z
+45,Gary Doyle,Casey-Montgomery,Finance,480,PPC,2025-05-27T06:51:30.072373Z
+46,Jessica Bailey,"Maddox, Gonzalez and Wilcox",Social,522,Referral,2025-05-03T07:51:30.072373Z
+47,Heather Miller,Johnson-Smith,Retail,530,Referral,2025-05-10T19:51:30.072373Z
+48,Misty Newman,Terrell LLC,Finance,200,Email,2025-06-04T02:51:30.072373Z
+49,Troy Harrison,Vasquez-Pearson,Social,348,Email,2025-04-06T09:51:30.072373Z
+50,Kristen Brown,Dillon-Lee,Retail,991,Organic,2025-05-06T00:51:30.072373Z

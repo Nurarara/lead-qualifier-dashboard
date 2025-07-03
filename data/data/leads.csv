@@ -1,0 +1,51 @@
+id,name,company,industry,size,source,created_at
+1,Vanessa Forbes,"Quinn, Watson and Holland",Retail,956,Email,2025-05-03T12:27:56.364115Z
+2,Amy Hernandez,"Johnson, Dickson and Andrews",Retail,199,Social,2025-04-25T03:27:56.365625Z
+3,Shawn Montgomery,"Rodgers, Brown and Blanchard",Technology,171,Referral,2025-04-13T00:27:56.365625Z
+4,David Boone,Hill-Castillo,Technology,601,Email,2025-06-02T08:27:56.365625Z
+5,Christopher Drake,Parker LLC,Technology,68,Social,2025-05-14T16:27:56.365625Z
+6,Doris Kelly,Pena-Ellis,Finance,690,PPC,2025-04-17T11:27:56.365625Z
+7,Michael Howard,Padilla PLC,Retail,157,Email,2025-05-23T09:27:56.366641Z
+8,Aaron Hawkins,"Nichols, Johnson and Black",Retail,154,PPC,2025-06-29T22:27:56.366641Z
+9,Scott Campos,Ashley-Burnett,Retail,169,Referral,2025-05-19T09:27:56.367150Z
+10,Holly Herring,Perez Inc,Social,682,Social,2025-04-14T00:27:56.367150Z
+11,Robert Reese,Hernandez-Miller,Healthcare,46,Organic,2025-04-12T10:27:56.367150Z
+12,Thomas Marks,Villa-Flynn,Manufacturing,694,Email,2025-06-13T16:27:56.367150Z
+13,Nicholas Mcmillan,Schmidt-Kemp,Retail,899,PPC,2025-06-27T01:27:56.367150Z
+14,Jeffery Shepard,"Johnson, Walton and Howard",Manufacturing,548,Referral,2025-06-21T08:27:56.368161Z
+15,Claire May,"Gentry, Hall and Madden",Healthcare,718,Referral,2025-06-29T06:27:56.368161Z
+16,Jessica Clarke,Franco LLC,Finance,569,Referral,2025-05-10T22:27:56.368161Z
+17,Gina Pierce,Martinez Inc,Technology,638,Social,2025-06-25T13:27:56.368161Z
+18,Kevin Long DVM,Jones-Sutton,Finance,468,Social,2025-06-28T19:27:56.368161Z
+19,Scott Pope,Johnson Ltd,Retail,788,Social,2025-06-02T04:27:56.368161Z
+20,Johnny Moore,Moore-Gonzalez,Manufacturing,416,Social,2025-06-03T05:27:56.368161Z
+21,Joseph Norman,Duncan LLC,Manufacturing,213,Social,2025-04-30T22:27:56.369325Z
+22,Robert Perry,Bolton-Reed,Finance,982,Referral,2025-06-10T17:27:56.369325Z
+23,Matthew Cisneros,"Henry, Jones and Herrera",Technology,259,Referral,2025-04-15T23:27:56.369325Z
+24,Jessica Martin,Fisher LLC,Healthcare,910,Referral,2025-04-06T10:27:56.369325Z
+25,Tiffany Huang,Burns Ltd,Finance,76,PPC,2025-05-10T16:27:56.369325Z
+26,Stephen Reid,Klein-Martin,Manufacturing,162,Social,2025-06-22T04:27:56.369325Z
+27,Jodi Anderson,Ramirez-Lopez,Technology,33,Email,2025-04-04T23:27:56.370324Z
+28,Allison Young,"Gutierrez, Clay and Thomas",Manufacturing,600,Social,2025-05-20T23:27:56.370324Z
+29,Anthony Torres,Hall-Russell,Retail,780,Social,2025-04-24T06:27:56.370324Z
+30,Patricia Brooks,"Johnson, Conner and Baird",Technology,753,Social,2025-05-08T17:27:56.371324Z
+31,Amanda Stark,Mercado and Sons,Manufacturing,513,PPC,2025-05-13T14:27:56.371324Z
+32,Lorraine Le,"Martinez, King and Stone",Healthcare,960,Email,2025-07-01T11:27:56.371324Z
+33,Thomas Collins,"Swanson, Foster and Peters",Manufacturing,447,PPC,2025-05-29T01:27:56.371324Z
+34,Stacie Burton,Carson-Fitzgerald,Manufacturing,260,Organic,2025-05-21T19:27:56.372324Z
+35,Crystal Baker,Gonzalez Inc,Manufacturing,778,Referral,2025-06-29T12:27:56.372324Z
+36,Karen Jackson,"Nelson, Clark and Munoz",Healthcare,386,PPC,2025-04-29T01:27:56.372324Z
+37,Corey Burns,Torres-Nolan,Technology,477,Referral,2025-05-16T07:27:56.373323Z
+38,Beth Riley,Montes-Williams,Healthcare,384,Organic,2025-06-12T01:27:56.373323Z
+39,David Howard,West Group,Healthcare,561,PPC,2025-06-04T01:27:56.373323Z
+40,Jonathan Taylor,"Stanley, Stevens and Mccullough",Manufacturing,182,Email,2025-06-04T16:27:56.373323Z
+41,Paul Little,Mason-Brennan,Technology,340,Organic,2025-04-11T09:27:56.374312Z
+42,Kathleen Alvarez,Pham-Robinson,Technology,894,Social,2025-04-05T00:27:56.374312Z
+43,Michael Collins,Henderson LLC,Technology,830,Social,2025-04-30T13:27:56.374821Z
+44,Anthony Shaffer,"Taylor, Delgado and Russell",Retail,487,PPC,2025-05-01T14:27:56.374821Z
+45,Deborah Richardson,Richardson Group,Social,689,Organic,2025-04-21T09:27:56.374821Z
+46,Nicholas Baker,Turner-Burton,Manufacturing,332,Social,2025-04-21T23:27:56.374821Z
+47,Kayla Ward,Palmer-Burke,Technology,742,Social,2025-06-30T11:27:56.374821Z
+48,Eric Brown,"Garza, Maxwell and Hoover",Healthcare,63,Email,2025-06-06T22:27:56.374821Z
+49,Sean Roberts,"Perkins, Bullock and Williams",Technology,66,Referral,2025-06-02T10:27:56.375830Z
+50,Andrew Humphrey DVM,"Richard, Green and Phillips",Healthcare,476,Email,2025-05-27T12:27:56.375830Z
