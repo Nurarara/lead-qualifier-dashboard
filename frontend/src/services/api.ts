@@ -1,8 +1,12 @@
 import axios from 'axios';
 
+// The address of your Python backend server
 const API_BASE_URL = 'http://localhost:8000';
+
+// Create a pre-configured instance of axios for API calls
 const apiClient = axios.create({ baseURL: API_BASE_URL });
 
+// Defines the TypeScript type for a single Lead object, including optional AI fields
 export interface Lead {
   id: number;
   name: string;
@@ -11,9 +15,13 @@ export interface Lead {
   size: number;
   source: string;
   created_at: string;
+  quality?: string;
+  summary?: string;
 }
 
+// Function to fetch leads from the backend, accepting an 'enrich' flag
 export const getLeads = (params: { 
+  enrich: boolean; 
   industry?: string; 
   sizeMin?: number; 
   sizeMax?: number 
@@ -21,16 +29,11 @@ export const getLeads = (params: {
   return apiClient.get<Lead[]>('/api/leads', { params });
 };
 
+// Function to send event tracking data to the backend
 export const trackEvent = (action: string, metadata: Record<string, any>) => {
   return apiClient.post('/api/events', { 
     action, 
     metadata, 
     timestamp: new Date().toISOString() 
   });
-};
-
-// --- NEW askAI function ---
-export const askAI = async (question: string, leads: Lead[]) => {
-  const response = await apiClient.post<{ answer: string }>('/api/ask', { question, leads });
-  return response.data;
 };
